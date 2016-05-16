@@ -21,4 +21,4 @@ def FibList(n):
     return F[n]
 
 
-print(FibList(20))
+print(FibList(4))
